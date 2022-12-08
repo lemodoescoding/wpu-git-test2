@@ -1,0 +1,26 @@
+/* Reset Styles Section */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Main Section */
+
+body {
+	width: 100%;
+	min-height: 100vh;
+	background-color: #efefef;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+div.container {
+	width: 600px;
+	min-height: 750px;
+	background-color: #fff;
+	border: none;
+	border-radius: 20px;
+	padding: 10px
+}
